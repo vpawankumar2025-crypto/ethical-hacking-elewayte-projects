@@ -1,7 +1,15 @@
 # Ethical Hacking Mini Project — Elewayte Externship
 
 **Author:** Pawan Kumar V
-**Program:** Elewayte Ethical Hacking Externship — Mini Project
+
+**Program:** Elewayte — Cyber Security Externship (Minor Project)
+
+**Course Duration:** June 2026 – July 2026
+
+**Contact:** vpawankumar2025@gmail.com
+
+**Linkedin:** www.linkedin.com/in/pawankumarv04
+
 **Target:** [testphp.vulnweb.com](http://testphp.vulnweb.com/) — Acunetix's official intentionally-vulnerable test application
 
 ## Overview
