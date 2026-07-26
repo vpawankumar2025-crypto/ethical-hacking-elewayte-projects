@@ -9,7 +9,7 @@ PumpkinFestival Report — README
 
 **Contact:** vpawankumar2025@gmail.com
 
-**Linkedin:** https://www.linkedin.com/in/pawankumarv04/
+**Linkedin:** www.linkedin.com/in/pawankumarv04
 
 This folder contains the COMPLETED report for the Mission Pumpkin v1.0
 (PumpkinFestival) VulnHub assessment (target 192.168.1.15).
