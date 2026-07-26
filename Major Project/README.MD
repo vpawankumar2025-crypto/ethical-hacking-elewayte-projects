@@ -2,9 +2,13 @@ PumpkinFestival Report — README
 ================================
 
 **Author:** Pawan Kumar V
+
 **Program:** Elewayte — Cyber Security Externship (Major Project)
+
 **Course Duration:** June 2026 – July 2026
+
 **Contact:** vpawankumar2025@gmail.com
+
 **Linkedin:** https://www.linkedin.com/in/pawankumarv04/
 
 This folder contains the COMPLETED report for the Mission Pumpkin v1.0
