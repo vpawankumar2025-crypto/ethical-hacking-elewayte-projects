@@ -1,6 +1,12 @@
 PumpkinFestival Report — README
 ================================
 
+**Author:** Pawan Kumar V
+**Program:** Elewayte — Cyber Security Externship (Major Project)
+**Course Duration:** June 2026 – July 2026
+**Contact:** vpawankumar2025@gmail.com
+**Linkedin:** https://www.linkedin.com/in/pawankumarv04/
+
 This folder contains the COMPLETED report for the Mission Pumpkin v1.0
 (PumpkinFestival) VulnHub assessment (target 192.168.1.15).
 
@@ -8,6 +14,7 @@ Files:
 - PumpkinFestival_Report_Filled.docx  -> Final report: narrative, all 10
   PumpkinToken findings, screenshots, root ticket, vulnerabilities, and
   remediation recommendations filled in.
+- PumpkinFestival_Report_Filled.pdf   -> PDF version of the same report.
 
 What's filled in:
 1. Recon -> Scanning -> Enumeration -> Exploitation -> Privilege
@@ -39,3 +46,10 @@ owner's own build/design notes rather than independently re-derived
 findings. If this report is being submitted as evidence of an
 independently-run assessment, disclose that provenance where
 appropriate.
+
+## Ethics & Authorization
+All testing was performed exclusively against the Mission Pumpkin v1.0
+(PumpkinFestival) VulnHub VM, a machine explicitly designed and provided
+for security testing practice. No other systems were tested. This report
+is for educational purposes as part of the Elewayte Ethical Hacking
+externship program.
